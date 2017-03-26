@@ -16,7 +16,7 @@ import java.util.Set;
  * Elements of input arrays can be modified.
  * Created by Dawid Tracz on 26.03.2017.
  */
-public class Run {
+public class CodilityTask1 {
     public static void main(final String[] args) {
         int[] A = new int[]{1, 3, 6, 4, 1, 2};
         solution(A);
